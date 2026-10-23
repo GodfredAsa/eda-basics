@@ -1,0 +1,57 @@
+﻿order_id,order_date,year,month,month_name,quarter,weekday,is_weekend,customer,region,sales_rep,product,category,price_band,quantity,unit_price,discount,has_discount,gross_sales,discount_amount,total_sales,order_size,payment_method,rating,rating_missing
+ORD-3001,2025-03-25,2025.0,3.0,March,1.0,Tuesday,False,Nana Yeboah,Ashanti,Efua Owusu,Desk,Furniture,Mid-range,4,1858.06,0.0,False,7432.24,0.0,7432.24,Medium,Credit Card,5.0,False
+ORD-3002,2025-02-07,2025.0,2.0,February,1.0,Friday,False,Fiifi Ampofo,Volta,Ama Serwaa,Office Chair,Furniture,Mid-range,5,1242.13,0.0,False,6210.650000000001,0.0,6210.65,Medium,Bank Transfer,,True
+ORD-3003,2025-04-10,2025.0,4.0,April,2.0,Thursday,False,Akosua Frimpong,Greater Accra,Ama Serwaa,Power Bank,Accessories,Budget,6,211.58,0.1,True,1269.48,126.95,1142.53,Small,Bank Transfer,2.0,False
+ORD-3004,2025-01-19,2025.0,1.0,January,1.0,Sunday,True,Kojo Annan,Ashanti,Ama Serwaa,Office Chair,Furniture,Mid-range,9,1248.14,0.0,False,11233.26,0.0,11233.26,Large,Cash,,True
+ORD-3005,2025-01-25,2025.0,1.0,January,1.0,Saturday,True,Selina Tetteh,Northern,Efua Owusu,Smartphone,Electronics,Premium,2,3333.4,0.0,False,6666.8,0.0,6666.8,Medium,Credit Card,5.0,False
+ORD-3006,2025-03-31,2025.0,3.0,March,1.0,Monday,False,Fiifi Ampofo,Greater Accra,Efua Owusu,Smartphone,Electronics,Premium,5,3280.34,0.05,True,16401.7,820.08,15581.62,Large,Mobile Money,4.0,False
+ORD-3007,2025-04-09,2025.0,4.0,April,2.0,Wednesday,False,Abena Osei,Greater Accra,Efua Owusu,Headphones,Electronics,Mid-range,1,449.81,0.0,False,449.81,0.0,449.81,Small,Unknown,1.0,False
+ORD-3008,2025-05-10,2025.0,5.0,May,2.0,Saturday,True,Unknown,Northern,Kofi Boateng,Desk,Furniture,Mid-range,1,1827.12,0.0,False,1827.12,0.0,1827.12,Small,Mobile Money,5.0,False
+ORD-3009,2025-01-05,2025.0,1.0,January,1.0,Sunday,True,Yaa Asantewaa,Western,Ama Serwaa,Smartphone,Electronics,Premium,7,3224.19,0.0,False,22569.33,0.0,22569.33,Large,Bank Transfer,,True
+ORD-3010,2025-03-03,2025.0,3.0,March,1.0,Monday,False,Kojo Annan,Ashanti,Ama Serwaa,Laptop,Electronics,Premium,2,6736.64,0.15,True,13473.28,2020.99,11452.29,Large,Cash,2.0,False
+ORD-3011,2025-02-23,2025.0,2.0,February,1.0,Sunday,True,Kojo Annan,Western,Efua Owusu,Desk,Furniture,Mid-range,3,1736.85,0.0,False,5210.549999999999,0.0,5210.55,Medium,Mobile Money,5.0,False
+ORD-3012,2025-05-06,2025.0,5.0,May,2.0,Tuesday,False,Kojo Annan,Western,Efua Owusu,Printer Paper,Stationery,Budget,10,98.22,0.0,False,982.2,0.0,982.2,Small,Bank Transfer,3.0,False
+ORD-3013,2025-03-12,2025.0,3.0,March,1.0,Wednesday,False,Esi Quartey,Northern,Kwame Mensah,Power Bank,Accessories,Budget,4,209.4,0.15,True,837.6,125.64,711.96,Small,Cash,1.0,False
+ORD-3014,2025-01-03,2025.0,1.0,January,1.0,Friday,False,Kojo Annan,Greater Accra,Ama Serwaa,Headphones,Electronics,Mid-range,9,436.68,0.0,False,3930.12,0.0,3930.12,Medium,Bank Transfer,1.0,False
+ORD-3015,2025-03-14,2025.0,3.0,March,1.0,Friday,False,Yaa Asantewaa,Northern,Efua Owusu,Printer Paper,Stationery,Budget,9,96.86,0.15,True,871.74,130.76,740.98,Small,Unknown,3.0,False
+ORD-3016,2025-01-23,2025.0,1.0,January,1.0,Thursday,False,Fiifi Ampofo,Unknown,Efua Owusu,Desk,Furniture,Mid-range,6,1874.5,0.1,True,11247.0,1124.7,10122.3,Large,Credit Card,5.0,False
+ORD-3017,2025-05-10,2025.0,5.0,May,2.0,Saturday,True,Fiifi Ampofo,Northern,Kofi Boateng,Printer Paper,Stationery,Budget,5,93.85,0.1,True,469.25,46.92,422.33,Small,Cash,1.0,False
+ORD-3018,2025-02-05,2025.0,2.0,February,1.0,Wednesday,False,Kwesi Adjei,Greater Accra,Kwame Mensah,Headphones,Electronics,Mid-range,4,468.5,0.0,False,1874.0,0.0,1874.0,Small,Cash,2.0,False
+ORD-3019,2025-02-11,2025.0,2.0,February,1.0,Tuesday,False,Prince Danso,Greater Accra,Kofi Boateng,Desk,Furniture,Mid-range,1,1832.03,0.15,True,1832.03,274.8,1557.23,Small,Cash,1.0,False
+ORD-3020,2025-04-27,2025.0,4.0,April,2.0,Sunday,True,Prince Danso,Volta,Efua Owusu,Notebook Pack,Stationery,Budget,1,57.28,0.05,True,57.28,2.86,54.42,Small,Unknown,5.0,False
+ORD-3021,2025-04-21,2025.0,4.0,April,2.0,Monday,False,Abena Osei,Greater Accra,Kofi Boateng,Smartphone,Electronics,Premium,1,3160.28,0.05,True,3160.28,158.01,3002.27,Medium,Cash,5.0,False
+ORD-3022,2025-06-12,2025.0,6.0,June,2.0,Thursday,False,Akosua Frimpong,Volta,Ama Serwaa,Desk,Furniture,Mid-range,5,1722.55,0.0,False,8612.75,0.0,8612.75,Medium,Cash,4.0,False
+ORD-3023,2025-05-19,2025.0,5.0,May,2.0,Monday,False,Selina Tetteh,Western,Efua Owusu,Office Chair,Furniture,Mid-range,6,1196.25,0.0,False,7177.5,0.0,7177.5,Medium,Bank Transfer,5.0,False
+ORD-3024,2025-06-18,2025.0,6.0,June,2.0,Wednesday,False,Fiifi Ampofo,Unknown,Kofi Boateng,Printer Paper,Stationery,Budget,7,97.285,0.05,True,680.995,34.05,646.95,Small,Credit Card,3.0,False
+ORD-3025,2025-02-18,2025.0,2.0,February,1.0,Tuesday,False,Fiifi Ampofo,Volta,Kofi Boateng,Printer Paper,Stationery,Budget,6,97.71,0.05,True,586.26,29.31,556.95,Small,Credit Card,,True
+ORD-3026,2025-03-30,2025.0,3.0,March,1.0,Sunday,True,Prince Danso,Ashanti,Kofi Boateng,Headphones,Electronics,Mid-range,5,451.21,0.15,True,2256.0499999999997,338.41,1917.64,Small,Unknown,4.0,False
+ORD-3027,2025-06-28,2025.0,6.0,June,2.0,Saturday,True,Kojo Annan,Northern,Ama Serwaa,Office Chair,Furniture,Mid-range,10,1221.81,0.1,True,12218.099999999999,1221.81,10996.29,Large,Credit Card,1.0,False
+ORD-3028,2025-05-30,2025.0,5.0,May,2.0,Friday,False,Adwoa Mensah,Northern,Kwame Mensah,Desk,Furniture,Mid-range,9,1804.49,0.15,True,16240.41,2436.06,13804.35,Large,Bank Transfer,,True
+ORD-3029,2025-04-02,2025.0,4.0,April,2.0,Wednesday,False,Yaa Asantewaa,Northern,Efua Owusu,Power Bank,Accessories,Budget,7,213.255,0.15,True,1492.7849999999999,223.92,1268.86,Small,Bank Transfer,5.0,False
+ORD-3030,2025-01-07,2025.0,1.0,January,1.0,Tuesday,False,Selina Tetteh,Western,Kwame Mensah,Desk,Furniture,Mid-range,5,1827.12,0.15,True,9135.599999999999,1370.34,7765.26,Medium,Cash,4.0,False
+ORD-3032,2025-04-25,2025.0,4.0,April,2.0,Friday,False,Unknown,Unknown,Kofi Boateng,Smartphone,Electronics,Premium,3,3224.64,0.1,True,9673.92,967.39,8706.53,Medium,Credit Card,1.0,False
+ORD-3033,2025-02-05,2025.0,2.0,February,1.0,Wednesday,False,Unknown,Western,Efua Owusu,Desk,Furniture,Mid-range,7,1835.49,0.15,True,12848.43,1927.26,10921.17,Large,Cash,2.0,False
+ORD-3034,2025-06-13,2025.0,6.0,June,2.0,Friday,False,Selina Tetteh,Greater Accra,Kwame Mensah,Office Chair,Furniture,Mid-range,8,1152.86,0.15,True,9222.88,1383.43,7839.45,Medium,Cash,1.0,False
+ORD-3035,2025-04-02,2025.0,4.0,April,2.0,Wednesday,False,Yaa Asantewaa,Northern,Kofi Boateng,Laptop,Electronics,Premium,5,6438.75,0.0,False,32193.75,0.0,32193.75,Large,Mobile Money,,True
+ORD-3036,2025-05-30,2025.0,5.0,May,2.0,Friday,False,Mavis Larbi,Greater Accra,Ama Serwaa,Office Chair,Furniture,Mid-range,10,1254.29,0.05,True,12542.9,627.14,11915.76,Large,Mobile Money,,True
+ORD-3037,2025-03-19,2025.0,3.0,March,1.0,Wednesday,False,Abena Osei,Volta,Efua Owusu,Notebook Pack,Stationery,Budget,9,57.52,0.05,True,517.6800000000001,25.88,491.8,Small,Credit Card,,True
+ORD-3038,2025-01-30,2025.0,1.0,January,1.0,Thursday,False,Fiifi Ampofo,Greater Accra,Kwame Mensah,Office Chair,Furniture,Mid-range,8,1227.87,0.15,True,9822.96,1473.44,8349.52,Medium,Bank Transfer,3.0,False
+ORD-3039,,,,,,,False,Prince Danso,Northern,Kofi Boateng,Headphones,Electronics,Mid-range,4,440.28,0.1,True,1761.12,176.11,1585.01,Small,Credit Card,4.0,False
+ORD-3040,2025-03-22,2025.0,3.0,March,1.0,Saturday,True,Nana Yeboah,Greater Accra,Efua Owusu,Notebook Pack,Stationery,Budget,1,57.16,0.05,True,57.16,2.86,54.3,Small,Mobile Money,1.0,False
+ORD-3041,2025-06-22,2025.0,6.0,June,2.0,Sunday,True,Adwoa Mensah,Ashanti,Kofi Boateng,Office Chair,Furniture,Mid-range,5,1198.42,0.05,True,5992.1,299.6,5692.5,Medium,Credit Card,2.0,False
+ORD-3042,2025-06-15,2025.0,6.0,June,2.0,Sunday,True,Kwesi Adjei,Northern,Efua Owusu,Smartphone,Electronics,Premium,10,3224.64,0.05,True,32246.399999999998,1612.32,30634.08,Large,Bank Transfer,4.0,False
+ORD-3043,2025-02-17,2025.0,2.0,February,1.0,Monday,False,Abena Osei,Greater Accra,Kofi Boateng,Headphones,Electronics,Mid-range,1,435.15,0.1,True,435.15,43.52,391.63,Small,Bank Transfer,5.0,False
+ORD-3044,2025-05-11,2025.0,5.0,May,2.0,Sunday,True,Kojo Annan,Western,Kwame Mensah,Backpack,Accessories,Budget,5,292.31,0.0,False,1461.55,0.0,1461.55,Small,Bank Transfer,2.0,False
+ORD-3045,2025-04-29,2025.0,4.0,April,2.0,Tuesday,False,Akosua Frimpong,Greater Accra,Kwame Mensah,Notebook Pack,Stationery,Budget,3,62.62,0.1,True,187.85999999999999,18.79,169.07,Small,Unknown,3.0,False
+ORD-3046,2025-03-07,2025.0,3.0,March,1.0,Friday,False,Abena Osei,Ashanti,Kofi Boateng,Power Bank,Accessories,Budget,5,214.93,0.0,False,1074.65,0.0,1074.65,Small,Bank Transfer,3.0,False
+ORD-3047,2025-06-16,2025.0,6.0,June,2.0,Monday,False,Abena Osei,Volta,Kwame Mensah,Headphones,Electronics,Mid-range,8,466.16,0.05,True,3729.28,186.46,3542.82,Medium,Cash,,True
+ORD-3048,2025-02-24,2025.0,2.0,February,1.0,Monday,False,Adwoa Mensah,Ashanti,Kofi Boateng,Printer Paper,Stationery,Budget,2,97.285,0.0,False,194.57,0.0,194.57,Small,Credit Card,2.0,False
+ORD-3049,2025-03-05,2025.0,3.0,March,1.0,Wednesday,False,Fiifi Ampofo,Western,Kwame Mensah,Backpack,Accessories,Budget,7,268.93,0.0,False,1882.51,0.0,1882.51,Small,Cash,,True
+ORD-3050,2025-04-18,2025.0,4.0,April,2.0,Friday,False,Kojo Annan,Northern,Efua Owusu,Desk,Furniture,Mid-range,5,1822.01,0.05,True,9110.05,455.5,8654.55,Medium,Mobile Money,1.0,False
+ORD-3051,2025-06-04,2025.0,6.0,June,2.0,Wednesday,False,Mavis Larbi,Volta,Efua Owusu,Notebook Pack,Stationery,Budget,4,61.62,0.15,True,246.48,36.97,209.51,Small,Cash,4.0,False
+ORD-3052,,,,,,,False,Nana Yeboah,Greater Accra,Kwame Mensah,Laptop,Electronics,Premium,10,6309.01,0.15,True,63090.100000000006,9463.52,53626.58,Large,Cash,5.0,False
+ORD-3053,2025-05-15,2025.0,5.0,May,2.0,Thursday,False,Unknown,Western,Kofi Boateng,Headphones,Electronics,Mid-range,10,468.7,0.05,True,4687.0,234.35,4452.65,Medium,Mobile Money,4.0,False
+ORD-3054,2025-01-18,2025.0,1.0,January,1.0,Saturday,True,Fiifi Ampofo,Greater Accra,Kofi Boateng,Headphones,Electronics,Mid-range,2,427.55,0.1,True,855.1,85.51,769.59,Small,Bank Transfer,2.0,False
+ORD-3055,2025-03-01,2025.0,3.0,March,1.0,Saturday,True,Mavis Larbi,Northern,Efua Owusu,Power Bank,Accessories,Budget,1,218.01,0.0,False,218.01,0.0,218.01,Small,Bank Transfer,3.0,False
+ORD-3056,2025-06-30,2025.0,6.0,June,2.0,Monday,False,Prince Danso,Greater Accra,Kofi Boateng,Notebook Pack,Stationery,Budget,2,59.57,0.0,False,119.14,0.0,119.14,Small,Cash,3.0,False
+ORD-3031,2025-04-06,2025.0,4.0,April,2.0,Sunday,True,Prince Danso,Western,Kofi Boateng,Notebook Pack,Stationery,Budget,9,62.98,0.0,False,566.8199999999999,0.0,566.82,Small,Credit Card,2.0,False
