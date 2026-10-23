@@ -1,0 +1,26 @@
+﻿column,dtype,description,missing
+order_id,object,Unique order reference,0
+order_date,datetime64[ns],Date of the order (blank if the original was invalid),2
+year,float64,Year of the order,2
+month,float64,Month number 1-12,2
+month_name,object,Month name,2
+quarter,float64,Calendar quarter 1-4,2
+weekday,object,Day of the week,2
+is_weekend,bool,True for Saturday or Sunday,0
+customer,object,Customer name ('Unknown' if not recorded),0
+region,object,Ghana region of the sale,0
+sales_rep,object,Salesperson,0
+product,object,Product sold,0
+category,object,Product category,0
+price_band,object,"Budget (<=300), Mid-range (<=2000) or Premium",0
+quantity,int64,"Units sold (whole number, 1-50)",0
+unit_price,float64,Price per unit in GHS,0
+discount,float64,Discount fraction (missing treated as 0),0
+has_discount,bool,True if a discount was given,0
+gross_sales,float64,quantity x unit_price (GHS),0
+discount_amount,float64,Value of the discount (GHS),0
+total_sales,float64,gross_sales minus discount_amount (GHS),0
+order_size,object,"Large (>=10,000), Medium (>=2,000) or Small",0
+payment_method,object,How the customer paid,0
+rating,float64,Customer rating 1-5 (blank if not given),10
+rating_missing,bool,True if the customer gave no rating,0
